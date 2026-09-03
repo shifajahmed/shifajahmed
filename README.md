@@ -1,3 +1,8 @@
+<!--- banner --->
+<img src="./shifaj-profile.png" alt="Hello world">
+
+<br/>
+
 # Hi 👋, I'm Shifaj Ahmed Rahim 
 ### 🔭 I build things with JavaScript, React, and Node.js
 
