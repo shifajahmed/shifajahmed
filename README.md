@@ -43,8 +43,8 @@ Currently, I'm focused on expanding my knowledge in **React** and **Node.js** wh
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?shifajahmed-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?shifajahmed-username&style=flat-square)
