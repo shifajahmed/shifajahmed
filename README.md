@@ -44,6 +44,9 @@ Currently, I'm focused on expanding my knowledge in **React** and **Node.js** wh
 
 ---
 
+### GitHub Contributions:
+![Snake Grid](https://github.com/shifajahmed/contribution-snake/blob/output/grid.svg)
+
 ## 📊 GitHub Stats  
 
 | GitHub Stats | Most Used Languages |
