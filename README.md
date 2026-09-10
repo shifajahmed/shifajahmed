@@ -19,7 +19,7 @@
 <!--- about --->
 - 👋 Hi, I’m **[@shifajahmed](https://github.com/shifajahmed)**
 - 🖥️ I’m currently working on **React.js, Next.js and Typescript** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose and PostgreSQL** for the backend.
 - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Projects on **[GitHub](https://github.com/shifajahmed)**
@@ -72,4 +72,4 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/shifajahmed/contribution-snake/blob/output/grid.svg)
+[Snake Grid](https://github.com/shifajahmed/contribution-snake/blob/output/grid.svg)
