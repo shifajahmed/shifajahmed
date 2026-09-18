@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./shifaj-profile.png" alt="Hello world">
+<img src="./shifaj-profile.jpg" alt="Hello world">
 
 <br/>
 
