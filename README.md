@@ -1,4 +1,4 @@
-<!--- banner --->
+<!--- banner image --->
 <img src="./shifaj-profile.jpg" alt="Hello world">
 
 <br/>
