@@ -5,14 +5,14 @@
 
 <!--- title --->
 <div id="user-content-toc align="center">
-  <ul align="center">
+  <div align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm SHIFAJ AHMED RAHIM</h1></summary>
     <!--- typo --->
     
 
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" />
 </a>
-  </ul>
+  </div>
 </div>
 
 <br/>
